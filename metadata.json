@@ -1,0 +1,6 @@
+{
+  "name": "JadwalKu",
+  "description": "Aplikasi jadwal dan agenda interaktif dengan skema warna gelap, aksen hijau dan biru, mode harian, mingguan, bulanan, input bahasa alami, dan pengingat real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

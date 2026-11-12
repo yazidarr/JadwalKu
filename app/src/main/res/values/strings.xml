@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JadwalKu</string>
+    <string name="title_day_view">Harian</string>
+    <string name="title_week_view">Mingguan</string>
+    <string name="title_month_view">Bulanan</string>
+    <string name="title_agenda_view">Agenda</string>
+    <string name="quick_input_hint">Ketik cepat: \"Kerja kelompok besok jam 19.00\"…</string>
+    <string name="add_schedule">Tambah Agenda</string>
+    <string name="edit_schedule">Edit Agenda</string>
+    <string name="category_task">Tugas</string>
+    <string name="category_meeting">Rapat / Kuliah</string>
+    <string name="category_personal">Pribadi</string>
+    <string name="category_other">Lainnya</string>
+    <string name="status_completed">Selesai</string>
+    <string name="status_pending">Akan Datang</string>
+    <string name="reminder_active">Pengingat Aktif</string>
+    <string name="today">Hari Ini</string>
+    <string name="notification_channel_name">Pengingat Jadwal</string>
+    <string name="notification_channel_desc">Notifikasi jadwal dan pengingat agenda Anda</string>
+</resources>
